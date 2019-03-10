@@ -1,0 +1,43 @@
+body{
+	background-color: powderblue;
+}
+
+ul{
+	list-style-type: none;
+	background-color: black;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+
+
+}
+
+li a{
+	text-decoration: none;
+	padding: 15px 16px;
+	color: white;
+	display: block;
+
+}
+
+li{
+	float: left;
+}
+
+li a:hover{
+	background-color: green;
+}
+
+img#bishal{
+	display: block;
+	width: 30%;
+	height: 10%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+
+.button{
+	padding-top: 10px;
+}
